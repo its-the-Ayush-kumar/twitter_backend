@@ -1,0 +1,19 @@
+{
+  "name": "twitter_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/its-the-Ayush-kumar/twitter_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/its-the-Ayush-kumar/twitter_backend/issues"
+  },
+  "homepage": "https://github.com/its-the-Ayush-kumar/twitter_backend#readme"
+}
